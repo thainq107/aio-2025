@@ -1,0 +1,5 @@
+streamlit
+pypdf
+chromadb
+openai
+pysqlite3-binary
